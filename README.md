@@ -78,7 +78,7 @@ The script talks only to `api.sinric.pro` and `sse.sinric.pro`. It sends your AP
 ## Development
 
 ```
-node --test tests/
+node --test tests/sinricpro.test.mjs
 ```
 
 The tests run the CLI against a local mock of the API and event stream; they need no account.
