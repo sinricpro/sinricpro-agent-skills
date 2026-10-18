@@ -2,6 +2,8 @@
 
 Control your [SinricPro](https://sinric.pro) smart home from an AI agent. This repository holds one skill, `sinricpro-smart-home`, for [OpenClaw](https://openclaw.ai), Claude Code and other agents that load `SKILL.md` skills.
 
+The SinricPro help docs cover this skill in their [AI assistant guide](https://help.sinric.pro/pages/mcp-server#agent-skill-control-your-smart-home). If you want your coding assistant to help you write SinricPro device code, use the [SinricPro Docs MCP server](https://help.sinric.pro/pages/mcp-server) instead.
+
 ## What it can do
 
 | Area | Examples |
